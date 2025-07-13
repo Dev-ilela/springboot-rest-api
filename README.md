@@ -140,5 +140,5 @@ Desenvolvido por Gabriel Vilela Carvalho de Souza.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença do Apache License 2.0 - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
